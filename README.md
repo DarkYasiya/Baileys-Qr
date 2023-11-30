@@ -1,9 +1,9 @@
 
-<h1 align="center">Baileys-Qr Made by SUHAIL TECH</h1>
+<h1 align="center">Baileys-Qr Made by DARK YASIYA</h1>
 <p align="center"> Get Baileys Qr, where session id Converted into 'base64'. You can change it According to your needs. </p>
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
+  <a href="https://youtube.com/@yasiya_yt">
     <img alt="Dark Yasiya" height="400" src="https://i.imgur.com/NpA3ZsJ.jpeg">
   </a>
 </p>
