@@ -1,13 +1,14 @@
+*
    * @project_name : baileys-qr
    * @author : DarkYasiya
-   * @youtube : https://www.youtube.com/SuhailTechInfo
+   * @youtube : https://www.youtube.com/@yasiya_yt
    * @description : Get baileys qr, where session id Converted into 'base64'. You can change it According to your needs.
    * @version 1.0.0
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * Created By Suhail Tech Info.
-   * © 2023 Suhail-Md.
+   * Created By Dark Yasiya x team.
+   * © 2023 Sakura-Md.
 */
 
 const fs   = require("fs-extra");
@@ -27,11 +28,11 @@ if (fs.existsSync('./auth_info_baileys')) {
   setTimeout(() => {   console.log('Y')    }, 1100);
   setTimeout(() => {   console.log(' ')    }, 1300);
   setTimeout(() => {   console.log('S')    }, 1500);
-  setTimeout(() => {   console.log('U')    }, 1700);
-  setTimeout(() => {   console.log('H')    }, 1900);
-  setTimeout(() => {   console.log('A')    }, 2100);
-  setTimeout(() => {   console.log('I')    }, 2300);
-  setTimeout(() => {   console.log('L')    }, 2500);
+  setTimeout(() => {   console.log('A')    }, 1700);
+  setTimeout(() => {   console.log('K')    }, 1900);
+  setTimeout(() => {   console.log('U')    }, 2100);
+  setTimeout(() => {   console.log('R')    }, 2300);
+  setTimeout(() => {   console.log('A')    }, 2500);
   setTimeout(() => {   console.log(' ')    }, 2700);
   setTimeout(() => {   console.log('Cache Cleared..!\nRun The Script Again')    }, 2900);
   setTimeout(() => {   process.exit()      }, 3000)
@@ -64,14 +65,14 @@ Thanks.
 `)   
 
 let cc = `╔════◇
-║『 *THANKS FOR CHOOSING SUHAIL-MD* 』
+║『 *THANKS FOR CHOOSING SAKURA-MD* 』
 ║ _You complete first step to making Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *1.Github:* _github.com/suhailtechinfo_
-║ *2.Ytube:* _youtube.com/suhailtechinfo_
-║ *3.Owner:* _https://wa.me/923184474176_
+║ *1.Github:* _github.com/DarkChamaofc/SAKURA-MD_
+║ *2.Ytube:* _youtube.com/@yasiya_yt_
+║ *3.Owner:* _https://wa.me/+94760018802_
 ║ *Note :*_Don't provide your SESSION_ID to_
 ║ _anyone otherwise that can access chats_
 ╚════════════════════════╝
@@ -82,9 +83,9 @@ let cc = `╔════◇
           process.exit(1)   // STOPPING PROCESS AFTER GETTING SESSION ID
         }
         session.ev.on('creds.update', saveCreds)
-       if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) { sᴜʜᴀɪʟ_ʙᴀɪʟᴇʏs_ǫʀ(); } // IF ANY ERROR< THEN PRINT QR AGAIN
+       if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) { ʏᴀsɪʏᴀ_ʙᴀɪʟᴇʏs_ǫʀ(); } // IF ANY ERROR< THEN PRINT QR AGAIN
       });
     } catch (err) {console.log(err);await require('child_process').exec('rm -rf auth_info_baileys');process.exit(1);}
   }
-  sᴜʜᴀɪʟ_ʙᴀɪʟᴇʏs_ǫʀ();
+  ʏᴀsɪʏᴀ_ʙᴀɪʟᴇʏs_ǫʀ();
 }, 3000)
