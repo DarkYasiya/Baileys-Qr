@@ -20,7 +20,7 @@
   <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@yasiya_yt" target="_blank">
     <img alt="YasiyaInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/@yasiya_yt" target="_blank" />
   </a>
-    <p align="center"><img src="https://profile-counter.glitch.me/DarkYasiya/Baileys-Qr/count.svg" alt="YasiyaInfo :: Visitor's Count" /></p>
+    <p align="center"><img src="https://profile-counter.glitch.me/{DarkYasiya}/count.svg" alt="YasiyaInfo :: Visitor's Count" /></p>
 
      
   </body>
